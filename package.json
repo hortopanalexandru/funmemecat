@@ -1,0 +1,15 @@
+{
+  "name": "memecat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "funmemecat.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Hortopan Alexandru",
+  "license": "MIT",
+  "homepage": "https://hortopanalexandru.github.io/funmemecat",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
